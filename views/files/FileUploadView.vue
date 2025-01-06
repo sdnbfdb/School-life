@@ -1,0 +1,1 @@
+import FileUpload from '@/components/files/upload/FileUpload.vue' 
